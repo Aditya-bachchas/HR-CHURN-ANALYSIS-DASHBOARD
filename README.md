@@ -28,7 +28,8 @@ Power BI – Data visualization and dashboard creation
 Libraries – Pandas, NumPy, Matplotlib (optional)
 
 📸 Dashboard Preview
-(Add screenshot here)
+<img width="626" height="337" alt="image" src="https://github.com/user-attachments/assets/8fd81436-6d89-4a87-b724-5d71a9034ac7" />
+
 Example:
 
 📂 Project Workflow
