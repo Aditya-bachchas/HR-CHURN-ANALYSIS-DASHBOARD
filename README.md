@@ -31,7 +31,7 @@ Excel – Additional formatting & metrics calculation
 
 Power BI – Data visualization and dashboard creation
 
-Libraries – Pandas
+Libraries – Pandas and LabelEncoder
 
 ## 📸 Dashboard Preview
 
