@@ -3,6 +3,7 @@
 An interactive employee attrition analysis dashboard built using Python, Excel, and Power BI, based on the IBM HR dataset. This project identifies key trends and factors contributing to employee churn, helping HR teams take data-driven actions to improve retention.
 
 ## 🔍 Overview
+
 Employee attrition can have a major impact on an organization’s productivity and costs. This project focuses on:
 
 Cleaning and transforming the raw IBM HR dataset.
@@ -40,6 +41,7 @@ Libraries – Pandas and LabelEncoder
 Example:
 
 ## 📂 Project Workflow
+
 Data Collection – IBM HR dataset.
 
 Data Cleaning – Removed duplicates, handled missing values, transformed columns.
