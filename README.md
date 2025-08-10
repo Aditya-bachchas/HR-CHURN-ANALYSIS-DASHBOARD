@@ -2,7 +2,7 @@
 📊 HR Churn Analysis Dashboard
 An interactive employee attrition analysis dashboard built using Python, Excel, and Power BI, based on the IBM HR dataset. This project identifies key trends and factors contributing to employee churn, helping HR teams take data-driven actions to improve retention.
 
-🔍 Overview
+## 🔍 Overview
 Employee attrition can have a major impact on an organization’s productivity and costs. This project focuses on:
 
 Cleaning and transforming the raw IBM HR dataset.
