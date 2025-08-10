@@ -51,6 +51,7 @@ Dashboard Building – Developed interactive visuals in Power BI.
 Insights & Reporting – Key takeaways for HR decision-making.
 
 ## 📈 Insights from the Dashboard
+
 Higher churn among employees with low salary and fewer years at the company.
 
 R&D and Sales departments show the most attrition.
